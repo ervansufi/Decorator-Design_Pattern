@@ -1,0 +1,3 @@
+NAMA 	: Ervan Sufi
+NIM	: 1708107010001
+TUGAS APL 
